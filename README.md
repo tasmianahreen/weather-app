@@ -1,6 +1,6 @@
 # ⛅️ weather-app
 
-## A simple and stylish weather application built with Flutter. This app fetches real-time weather data for any city 🌍 using a weather API and displays key details like:
+## A simple and stylish weather application built with SwiftUI & Flutter. This app fetches real-time weather data for any city 🌍 using a weather API and displays key details like:
 * 🌡️ Temperature
 * ☁️ Weather conditions
 * 💧 Humidity
